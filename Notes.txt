@@ -1,3 +1,5 @@
 Phone app Solo Learn for coding. (Installed on my phone)
 
 Edited on my pc.
+
+And again on my laptop after doing a git pull to sync data.
